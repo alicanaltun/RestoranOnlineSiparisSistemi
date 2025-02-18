@@ -7,6 +7,11 @@ Bu proje, bir restoran müşterilerinin online olarak sipariş verebilmesi ve ta
 
 [Proje Tanıtım Videosunu İzlemek için Tıklayınız](https://drive.google.com/file/d/17mHfomrHlraIT6rAcORtBslB_528agrn/view?usp=sharing)
 
+## Ekran Görüntüleri
+
+![Resim Açıklaması](https://github.com/alicanaltun/RestoranOnlineSiparisSistemi/blob/master/screenshot1.png?raw=true)
+
+![Resim Açıklaması](https://github.com/alicanaltun/RestoranOnlineSiparisSistemi/blob/master/screenshot2.png?raw=true)
 
 ## Özellikler
 
